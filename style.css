@@ -1,0 +1,737 @@
+.header{
+    display: flex;
+    height: 50px;
+    background-color: black;
+}
+.jeep{
+    height: 40px;
+    width: 60px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.recovery{
+    color: white;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.call{
+    left: 7px;
+    bottom: 7px;
+    position: fixed;
+}
+.whatsapp{
+    right: 7px;
+    bottom: 7px;
+    position: fixed;
+}
+
+
+
+
+.ruwais{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+.sila{
+margin-left: 35px;
+text-align: center;
+word-spacing: 15px;
+}
+.inline{
+    display: flex;
+    margin-left: 150px;
+    padding: 20px;
+}
+.button{
+    background-color: aqua;
+    border-radius: 5px;
+    color: green;
+}
+
+
+
+.second{
+    height: 120px;
+    width: 190px;
+    border-radius: 10px;
+}
+.excellent{
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.own{
+    width: 600px;
+    height: 300px;
+    margin-left: 17px;
+    box-shadow: 2px 2px 5px;
+    color: blue
+}
+.photo{
+    height: 230px;
+    width: 500px;
+    border-radius: 10px;
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    
+}
+.pricing-body{
+    width: 300px;
+    height: 250px;
+    box-shadow: 2px 2px 5px;
+    border-radius: 20px;
+    margin-left: 20px;
+    background-color: aqua;
+}
+.bgc{
+    background-color: yellow;
+}
+
+.tiger{
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.services{
+    width: 600px;
+    height: 200px;
+    box-shadow: 2px 2px 5px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    margin-left: 15px;
+}
+.areas{
+ width: 600px;
+ height: 200px;
+ box-shadow: 2px 2px 5px;
+ border-radius: 10px;
+ margin-bottom: 10px;
+ margin-left: 15px;
+}
+.main{
+    height: 35px;
+    background-color: aqua;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.footer{
+    display: flex;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    background-color: black;
+}
+.toe{
+ margin-left: 60px;
+    color: white;
+}
+.teo{
+  margin-right: 70px;
+color: white;
+}
+.about{
+    color: slategrey;
+}
+
+
+
+
+
+
+
+
+
+@media (max-width:480px){
+    
+    .header{
+        width: 650px;
+        display: flex;
+        height: 90px;
+        background-color: black;
+    }
+    .jeep{
+        height: 70px;
+        width: 100px;
+        border-radius: 10px;
+        margin-left: 10px;
+        margin-top: 8px;
+    }
+    .recovery{
+        color: white;
+        margin-left: 5px;
+        margin-top: 25px;
+        font-size: 20px;
+    }
+    
+    .call{
+        height: 80px;
+        left: 7px;
+        bottom: 7px;
+        position: fixed;
+    }
+    .whatsapp{
+        height: 90px;
+        width: 90px;
+        right: 7px;
+        bottom: 7px;
+        position: fixed;
+    }
+    
+    .heroes{
+        width: 600px;
+    }
+    
+    
+    .ruwais{
+        padding: 0px;
+        font-size: 70px;
+        text-align: center;
+        
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .sila{
+        font-size: 45px;
+    margin-left: 1px;
+    text-align: center;
+    word-spacing: 15px;
+    }
+    .inline{
+        font-size: 30px;
+        display: flex;
+        margin-left: 20px;
+        padding: 0px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .button{
+        background-color: aqua;
+        border-radius: 5px;
+        color: green;
+    }
+    
+    
+    
+    .second{
+        height: 330px;
+        width: 600px;
+        border-radius: 10px;
+    }
+    .excellent{
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .own{
+        width: 630px;
+        height: 450px;
+        margin-left: 1px;
+        box-shadow: 2px 2px 5px;
+        color: blue;
+    }.five{
+        font-size: 30px;
+    }
+    .photo{
+        height: 300px;
+        
+        border-radius: 10px;
+    }
+    
+    
+    .container{
+    
+        display: inline;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        text-align: center;
+        
+    }
+    .pricing-body{
+        font-size: 40px;
+        width: 600px;
+        height: 630px;
+        box-shadow: 2px 2px 10px;
+        border-radius: 20px;
+        margin-left: 20px;
+        background-color: aqua;
+    }
+    .bgc{
+        font-size: 50px;
+        background-color: yellow;
+    }
+    
+    .tiger{
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        margin-top: 5px;
+        margin-bottom: 20px;
+    }
+    .services{
+        font-size: 40px;
+        width: 630px;
+        height: 430px;
+        box-shadow: 2px 2px 5px;
+        border-radius: 10px;
+        margin-bottom: 30px;
+        margin-left: 15px;
+    }
+    .areas{
+        font-size: 40px;
+     width: 630px;
+     height: 450px;
+     box-shadow: 2px 2px 5px;
+     border-radius: 10px;
+     margin-bottom: 10px;
+     margin-left: 15px;
+    }
+    .main{
+        height: 60px;
+        background-color: aqua;
+        border-top-right-radius: 10px;
+        border-top-left-radius: 10px;
+    }
+    .footer{
+        display: flex;
+        border-top-right-radius: 5px;
+        border-top-left-radius: 5px;
+        background-color: black;
+        width: 650px;
+        font-size: 20px;
+    }
+    .contact{
+        font-size: 23px;
+    }
+    .toe{
+     margin-left: 10px;
+        color: white;
+    }
+    .teo{
+        
+      margin-right: 15px;
+    color: white;
+    }
+    .about{
+        color: slategrey;
+        
+    }
+}
+
+
+
+
+
+
+@media (min-width:481px) and (max-width:768px){
+    
+    .header{
+        width: 770px;
+        display: flex;
+        height: 90px;
+        background-color: black;
+    }
+    .jeep{
+        height: 70px;
+        width: 100px;
+        border-radius: 10px;
+        margin-left: 10px;
+        margin-top: 8px;
+    }
+    .recovery{
+        color: white;
+        margin-left: 5px;
+        margin-top: 25px;
+        font-size: 23px;
+    }
+    
+    .call{
+        height: 95px;
+        left: 7px;
+        bottom: 7px;
+        position: fixed;
+    }
+    .whatsapp{
+        height: 100px;
+        width: 100px;
+        right: 7px;
+        bottom: 7px;
+        position: fixed;
+    }
+    
+    .heroes{
+        width: 750px;
+    }
+    
+    
+    .ruwais{
+        padding: 0px;
+        font-size: 80px;
+        text-align: center;
+        
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .sila{
+        font-size: 45px;
+    margin-left: 1px;
+    text-align: center;
+    word-spacing: 15px;
+    }
+    .inline{
+        font-size: 35px;
+        display: flex;
+        margin-left: 20px;
+        padding: 0px;
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+    .button{
+        background-color: aqua;
+        border-radius: 5px;
+        color: green;
+    }
+    
+    
+    
+    .second{
+        height: 350px;
+        width: 720px;
+        border-radius: 10px;
+    }
+    .excellent{
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .own{
+        width: 750px;
+        height: 450px;
+        margin-left: 1px;
+        box-shadow: 2px 2px 5px;
+        color: blue;
+    }.five{
+        font-size: 30px;
+    }
+    .photo{
+        height: 350px;
+        width: 660px;
+        
+        border-radius: 10px;
+    }
+    
+    
+    .container{
+    
+        display: inline;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        text-align: center;
+        
+    }
+    .pricing-body{
+        font-size: 45px;
+        width: 720px;
+        height: 670px;
+        box-shadow: 2px 2px 10px;
+        border-radius: 20px;
+        margin-left: 20px;
+        background-color: aqua;
+    }
+    .bgc{
+        font-size: 50px;
+        background-color: yellow;
+    }
+    
+    .tiger{
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        margin-top: 5px;
+        margin-bottom: 20px;
+    }
+    .services{
+        font-size: 45px;
+        width: 730px;
+        height: 460px;
+        box-shadow: 2px 2px 5px;
+        border-radius: 10px;
+        margin-bottom: 30px;
+        margin-left: 15px;
+    }
+    .areas{
+        font-size: 45px;
+     width: 730px;
+     height: 490px;
+     box-shadow: 2px 2px 5px;
+     border-radius: 10px;
+     margin-bottom: 10px;
+     margin-left: 15px;
+    }
+    .main{
+        height: 70px;
+        background-color: aqua;
+        border-top-right-radius: 10px;
+        border-top-left-radius: 10px;
+    }
+    .footer{
+        display: flex;
+        border-top-right-radius: 5px;
+        border-top-left-radius: 5px;
+        background-color: black;
+        width: 770px;
+        font-size: 23px;
+    }
+    .contact{
+        font-size: 28px;
+    }
+    .toe{
+     margin-left: 10px;
+        color: white;
+    }
+    .teo{
+        
+      margin-right: 15px;
+    color: white;
+    }
+    .about{
+        color: slategrey;
+        
+    }
+}
+
+
+
+
+
+
+
+
+@media (min-width:769px) and (max-width:992px){
+    
+    .header{
+        width: 1000px;
+        display: flex;
+        height: 100px;
+        background-color: black;
+    }
+    .jeep{
+        height: 80px;
+        width: 130px;
+        border-radius: 10px;
+        margin-left: 10px;
+        margin-top: 8px;
+    }
+    .recovery{
+        color: white;
+        margin-left: 5px;
+        margin-top: 28px;
+        font-size: 27px;
+    }
+    
+    .call{
+        height: 95px;
+        left: 7px;
+        bottom: 7px;
+        position: fixed;
+    }
+    .whatsapp{
+        height: 100px;
+        width: 100px;
+        right: 7px;
+        bottom: 7px;
+        position: fixed;
+    }
+    
+    .heroes{
+        width: 970px;
+    }
+    
+    
+    .ruwais{
+        padding: 0px;
+        font-size: 85px;
+        text-align: center;
+        
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .sila{
+        font-size: 47px;
+    margin-left: 1px;
+    text-align: center;
+    word-spacing: 15px;
+    }
+    .inline{
+        font-size: 40px;
+        display: flex;
+        margin-left: 40px;
+        padding: 0px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .button{
+        background-color: aqua;
+        border-radius: 5px;
+        color: green;
+    }
+    
+    
+    
+    .second{
+        height: 350px;
+        width: 950px;
+        border-radius: 10px;
+    }
+    .excellent{
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .own{
+        width: 990px;
+        height: 500px;
+        margin-left: 1px;
+        box-shadow: 2px 2px 5px;
+        color: blue;
+    }.five{
+        font-size: 35px;
+    }
+    .photo{
+        height: 400px;
+        width: 950px;
+        
+        border-radius: 10px;
+    }
+    
+    
+    .container{
+    
+        display: inline;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        text-align: center;
+        
+    }
+    .pricing-body{
+        font-size: 50px;
+        width: 950px;
+        height: 730px;
+        box-shadow: 2px 2px 10px;
+        border-radius: 20px;
+        margin-left: 20px;
+        background-color: aqua;
+    }
+    .bgc{
+        font-size: 50px;
+        background-color: yellow;
+    }
+    
+    .tiger{
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        margin-top: 5px;
+        margin-bottom: 20px;
+    }
+    .services{
+        font-size: 50px;
+        width: 960px;
+        height: 460px;
+        box-shadow: 2px 2px 5px;
+        border-radius: 10px;
+        margin-bottom: 30px;
+        margin-left: 15px;
+    }
+    .areas{
+        font-size: 50px;
+     width: 960px;
+     height: 540px;
+     box-shadow: 2px 2px 5px;
+     border-radius: 10px;
+     margin-bottom: 10px;
+     margin-left: 15px;
+    }
+    .main{
+        height: 70px;
+        background-color: aqua;
+        border-top-right-radius: 10px;
+        border-top-left-radius: 10px;
+    }
+    .footer{
+        display: flex;
+        border-top-right-radius: 5px;
+        border-top-left-radius: 5px;
+        background-color: black;
+        width: 1000px;
+        font-size: 25px;
+    }
+    .contact{
+        font-size: 35px;
+    }
+    .toe{
+        
+     margin-left: 10px;
+        color: white;
+    }
+    .teo{
+        
+      margin-right: 15px;
+    color: white;
+    }
+    .about{
+        color: slategrey;
+        
+    }
+}
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
